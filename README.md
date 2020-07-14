@@ -2,7 +2,7 @@
 
 I am a **software engineer** 👨‍💻, interested in *Math*, *Deep Learning*, *Robotics* and *Automumus Systems*  
 
-📫 Want to chat? find me on Skype at amjad.mahfoud
+
 
 <!--
 **amjad-mahfoud/amjad-mahfoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
