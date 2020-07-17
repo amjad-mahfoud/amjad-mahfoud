@@ -19,4 +19,4 @@ I am **AMJAD MAHFOUD** a **software engineer** 👨‍💻, interested in *Math*
 | | |
 |:----:|:---:|
 |:link: | [LinkedIn](https://www.linkedin.com/in/amjad-mahfoud/)|
-|:incoming_envelope: | [clarkbw@gmail.com](mailto:amjad.y.mahfoud@gmail.com)|
+|:incoming_envelope: | [Email](mailto:amjad.y.mahfoud@gmail.com)|
