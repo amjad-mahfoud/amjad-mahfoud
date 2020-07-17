@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-# AMJAD MAHFOUD
-
-I am a **software engineer** 👨‍💻, interested in *Math*, *Deep Learning*, *Robotics* and *Automumus Systems*  
+I am **AMJAD MAHFOUD** a **software engineer** 👨‍💻, interested in *Math*, *Deep Learning*, *Robotics* and *Automumus Systems*  
 
 ## Education :books:
 
 
-#### Clarkson University
+#### Syrian Virtual University
 **MS, Web Science**
 *2018 - present*
 
