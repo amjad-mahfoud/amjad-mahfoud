@@ -1,20 +1,24 @@
 ### Hi there 👋
 
+# AMJAD MAHFOUD
+
 I am a **software engineer** 👨‍💻, interested in *Math*, *Deep Learning*, *Robotics* and *Automumus Systems*  
 
+## Education :books:
 
 
-<!--
-**amjad-mahfoud/amjad-mahfoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Clarkson University
+**MS, Web Science**
+*2018 - present*
 
-Here are some ideas to get you started:
+#### Tisgreen University
+**BS, Computer Science**
+*2010 - 2016*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact
+
+| | |
+|:----:|:---:|
+|:link: | [LinkedIn](https://www.linkedin.com/in/amjad-mahfoud/)|
+|:incoming_envelope: | [clarkbw@gmail.com](mailto:amjad.y.mahfoud@gmail.com)|
